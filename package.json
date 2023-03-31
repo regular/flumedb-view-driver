@@ -1,0 +1,20 @@
+{
+  "name": "flumedb-view-driver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jan Bölsche <jan@lagomorph.de> (http://regular.codes/)",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "explain-error": "^1.0.4",
+    "pull-abortable": "^4.1.1",
+    "pull-cont": "^0.1.1",
+    "pull-looper": "^1.0.0",
+    "pull-stream": "^3.7.0"
+  }
+}
